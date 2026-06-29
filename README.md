@@ -64,7 +64,3 @@ cube["value"].sel(time="2023-02-15")
 
 A small clipped sample (a handful of tiny GeoTIFFs) lives in `sample_data/`
 so the tool can be run end to end without a large download.
-
-## License
-
-Released under the MIT License. See `LICENSE`.
